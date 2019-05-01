@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
