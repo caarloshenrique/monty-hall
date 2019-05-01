@@ -1,4 +1,7 @@
 # montyhall
+🚪 Resolução do desafio Monty Hall em VueJS
+
+## Getting Started
 
 ![home_door](https://user-images.githubusercontent.com/26313761/46743107-57708800-cc76-11e8-99bf-c09af2ff53d9.png)
 
@@ -26,3 +29,6 @@ npm run test
 ```
 npm run lint
 ```
+## Built With
+
+* [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework used
