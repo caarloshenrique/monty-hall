@@ -17,7 +17,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
 - [Vue CLI](https://github.com/vuejs/vue-cli)
 
-## Getting Started
+## :fire: Instalação e execução
 
 ### Project setup
 ```
@@ -43,9 +43,6 @@ npm run test
 ```
 npm run lint
 ```
-## Built With
-
-* [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework used
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
