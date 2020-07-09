@@ -15,6 +15,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 ## :clipboard: Pré-requisitos
 
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
+- [Vue CLI](https://github.com/vuejs/vue-cli)
 
 ## Getting Started
 
