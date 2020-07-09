@@ -3,6 +3,15 @@
 
 ![home_door](https://user-images.githubusercontent.com/26313761/46743107-57708800-cc76-11e8-99bf-c09af2ff53d9.png)
 
+## :rocket: Tecnologias utilizadas 
+
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [VueJS](https://vuejs.org/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+{...}
+
 ## :clipboard: Pré-requisitos
 
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
